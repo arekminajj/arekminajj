@@ -1,5 +1,5 @@
 # I love making web apps :heart:
-### 🔭 I’m currently working on raspberry pi project
+### 🔭 I’m currently working on a raspberry pi project
 # How to reach me:
 
 :e-mail: email: arek123113@gmail.com

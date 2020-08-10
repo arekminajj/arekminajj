@@ -1,5 +1,5 @@
 # I love making web apps :heart:
-### 🔭 I’m currently working on a raspberry pi project
+### 🔭 I’m currently working on a raspberry pi security camera project :camera:
 ### 🌱 I’m currently learning deno 🦕
 # How to reach me:
 

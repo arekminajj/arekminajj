@@ -1,6 +1,7 @@
 # I love making web apps :heart:
-### 🔭 I’m currently working on a raspberry pi security camera project :camera:
+### 🔭 I’m currently working on a automatic entry gate remote system :camera:
 ### 🌱 I’m currently learning deno 🦕
+### ⚡ Fun fact: This is my fav [song!](https://www.youtube.com/watch?v=WqcUagDI-oM) :heart:
 # How to reach me:
 
 :e-mail: email: arek123113@gmail.com

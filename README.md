@@ -1,7 +1,7 @@
 # Hello
 ### 🔭 I’m currently working on a automatic entry gate remote system :camera:
 ### 🌱 I’m currently learning deno 🦕
-### ⚡ Fun fact: This is my fav [song!](https://www.youtube.com/watch?v=unRjVcNMv-M) :heart:
+
 ### DT2 10/9!
 # How to reach me:
 

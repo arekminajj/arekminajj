@@ -1,5 +1,5 @@
 # Hello
-### 🔭 I’m currently working on a automatic entry gate remote system :camera:
+### 🔭 I’m currently working on a music taste web app 🎵
 ### 🌱 I’m currently learning Vue! 🦕
 
 ### DT2 10/9!

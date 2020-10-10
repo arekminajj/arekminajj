@@ -1,8 +1,7 @@
 # Hello
 ### 🔭 I’m currently working on a music taste web app 🎵
-### 🌱 I’m currently learning Vue! 🦕
+### 🌱 I’m currently learning Next.js! 🦕
 
-### DT2 10/9!
 # How to reach me:
 
 :e-mail: email: arek123113@gmail.com

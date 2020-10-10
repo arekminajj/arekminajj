@@ -4,7 +4,7 @@
 
 # How to reach me:
 
-:e-mail: email: arek123113@gmail.com
+:e-mail: arek123113@gmail.com
 
 :bird: [Twitter](https://twitter.com/Arek123113)
 

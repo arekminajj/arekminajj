@@ -1,6 +1,7 @@
 # Hello 👋 
 ### 🔭 I’m currently working on a [Spotify-You 🎵](https://github.com/arekminajj/spotify-you) 
 ### 🌱 I’m currently learning Next.js!
+###  📫 How to reach me: [Twitter](https://twitter.com/Arek123113), arek123113@gmail.com
 
 <p align = "center">
 <img src =  "https://github-readme-stats.vercel.app/api/top-langs/?username=arekminajj&hide=css">

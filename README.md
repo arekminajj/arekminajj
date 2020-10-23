@@ -5,8 +5,8 @@
 <p align = "center">
 <img src =  "https://github-readme-stats.vercel.app/api?username=arekminajj&count_private=true?theme=Gradient">
 <img src =  "https://github-readme-stats.vercel.app/api/top-langs/?username=arekminajj">
-<img src =  "https://github-readme-stats.vercel.app/api/wakatime?username=Arek123113">
 </p>
+<img src =  "https://github-readme-stats.vercel.app/api/wakatime?username=Arek123113">
 <!--
 **arekminajj/arekminajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

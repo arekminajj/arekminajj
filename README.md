@@ -5,7 +5,7 @@
 
 <p align = "center">
 <img src =  "https://github-readme-stats.vercel.app/api/top-langs/?username=arekminajj&hide=css">
-<img src =  "https://github-readme-stats.vercel.app/api?username=arekminajj&count_private=true?theme=Gradient&show_icons=true">
+<img src =  "https://github-readme-stats.vercel.app/api?username=arekminajj&count_private=true&show_icons=true">
 </p>
 <!--
 **arekminajj/arekminajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

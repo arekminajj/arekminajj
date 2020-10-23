@@ -3,11 +3,9 @@
 ### 🌱 I’m currently learning Next.js!
 
 <p align = "center">
-![Arekminajj's github stats](https://github-readme-stats.vercel.app/api?username=arekminajj&count_private=true?theme=Gradient)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekminajj)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Arekminajj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arek123113)](https://github.com/anuraghazra/github-readme-stats)
+<img src =  "https://github-readme-stats.vercel.app/api?username=arekminajj&count_private=true?theme=Gradient">
+<img src =  "https://github-readme-stats.vercel.app/api/top-langs/?username=arekminajj)](https://github.com/anuraghazra/github-readme-stats">
+<img src =  "https://github-readme-stats.vercel.app/api/wakatime?username=Arek123113">
 </p>
 <!--
 **arekminajj/arekminajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

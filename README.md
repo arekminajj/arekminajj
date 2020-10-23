@@ -1,15 +1,12 @@
-# Hello
-### 🔭 I’m currently working on a music taste web app 🎵
-### 🌱 I’m currently learning Next.js! 🦕
+# Hello 👋 
+### 🔭 I’m currently working on a [Spotify-You 🎵](https://github.com/arekminajj/spotify-you) 
+### 🌱 I’m currently learning Next.js!
 
-# How to reach me:
+![Arekminajj's github stats](https://github-readme-stats.vercel.app/api?username=arekminajj&count_private=true?theme=Gradient)
 
-:e-mail: arek123113@gmail.com
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekminajj)](https://github.com/anuraghazra/github-readme-stats)
 
-:bird: [Twitter](https://twitter.com/Arek123113)
-
-:camera: [Instagram](https://www.instagram.com/arekminajj/?hl=en)
-
+[![Arekminajj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arek123113)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **arekminajj/arekminajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 # Hello 👋 
-### 🔭 I’m currently playing csgo lol
+### 🔭 I’m currently playing counter strike lol
 ### 🌱 I’m currently learning Next.js!
 ###  📫 How to reach me: [Twitter](https://twitter.com/Arek123113), arek123113@gmail.com
 

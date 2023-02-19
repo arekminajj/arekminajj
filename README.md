@@ -1,6 +1,4 @@
 # Hello 👋 
-### 🔭 I’m currently playing counter strike lol
-### 🌱 I’m currently learning Next.js!
 ###  📫 How to reach me: [Twitter](https://twitter.com/arekminajj), arek123113@gmail.com
 
 <p align = "center">

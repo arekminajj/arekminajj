@@ -1,5 +1,19 @@
-# Hello 👋 
-###  📫 How to reach me: [Twitter](https://twitter.com/arekminajj), arek123113@gmail.com
+### Hi there! 👋
+
+I'm a **Computer Engineering Student**, passionate about coding, microcontrollers, and everything computer-related. I enjoy blending software and hardware to bring ideas to life.
+
+### 🚀 Current Focus
+
+- Building cool microcontroller projects
+- Exploring AI and deep learning
+
+### 📫 Let's Connect
+📧 Email: arkadiuszcios@outlook.com
+
+[LinkedIn](https://www.linkedin.com/in/arkadiuszcios/)
+
+---
+
 <!--
 **arekminajj/arekminajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
